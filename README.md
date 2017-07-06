@@ -1,7 +1,5 @@
 # The MAGIC/PIC spectra processing
 
-<p align="justify">
-
 MAGIC provides a website with all related scientific articles and accordingly
 (FITS) data files; the service is maintained by the PIC institute, that is why
 we call it *MAGIC/PIC* data.
@@ -16,5 +14,3 @@ through VO-SSAP interface. Data will flow through a pipeline where we will verif
 and, whenever possible, automatically fix and filter missing or wrong data.
 Eventually, *spectra* that succeeded the automatic analysis will be eye-inspected
 and correlated with other, multi-wavelength data in a SED tool.
-
-</p>
